@@ -1,6 +1,6 @@
 {
   "latestVersion": "1.0",
-  "minRequiredVersion": "1",
+  "minRequiredVersion": "0.1",
   "updateMessage": "A new verion is available. Please update to version (fake version number) now.",
   "forcedUpdateMessage": "An update is requiered. Please update to version (fake version number) now.",
   "isAppUnavailable": true,
