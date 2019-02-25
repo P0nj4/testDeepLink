@@ -1,0 +1,9 @@
+{
+  "latestVersion": "1.0",
+  "minRequiredVersion": "0.3.59",
+  "updateMessage": "A new verion is available. Please update to version (fake version number) now.",
+  "forcedUpdateMessage": "An update is requiered. Please update to version (fake version number) now.",
+  "isAppUnavailable": false,
+  "appUnavailableMessage": "Sorry. We are running into some difficulties. Please try again later.",
+  "urlUpdate": "https://beta.itunes.apple.com/v1/app/1433961188"
+}
